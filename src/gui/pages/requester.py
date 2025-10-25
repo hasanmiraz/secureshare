@@ -10,7 +10,7 @@ from src.storage.cloud import list_files, get_meta
 from ..widgets import (
     Section, LabeledEntry, StatusBar, alert_error, ScrollableFrame, apply_treeview_style
 )
-8321d4a5e8b2f0f64b8b4ce144a640d1c2aa469b88796ab7e998ce08f9e984f6
+
 # Use Path (not str) for KEYS_DIR
 KEYS_DIR: Path = Path("data/keys")
 
